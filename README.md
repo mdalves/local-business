@@ -1,16 +1,9 @@
-# local_negocios
+# Projects
 
-A new Flutter application.
+### **Local App**
 
-## Getting Started
+Software solution to promote small business from a tourist area using a discount collaborative network.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+* Press release Faro de Vigo: https://www.farodevigo.es/portada-pontevedra/2019/03/27/nuevas-propuestas-turismo-gastronomia-campo/2076653.html
+* Press release Atlántico: https://www.atlantico.net/articulo/xornal-escolar/efa-cancela-acaba-recibir-premio-depoemprende-formacion-profesional/20190513125931708040.html
+* Press release Galicia Press: https://www.galiciapress.es/texto-diario/mostrar/1598182/35-emprendedores-seleccionados-6-edicion-viagalicia-muestran-proyectos-porto-do-molle
